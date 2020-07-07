@@ -1,5 +1,5 @@
 
-# Assignment -- Graph Databases
+# Graph Databases
 
 ### Goal
 The goal of this assignment is for you to gain familiarity with Graph Databases in general, and with Neo4j and, its query language, Cypher, in particular.      
